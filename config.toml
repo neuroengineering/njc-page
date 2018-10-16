@@ -1,15 +1,25 @@
-baseURL = "/"
+# baseURL = "/"
+relativeURLs = true
 languageCode = "en-us"
-title = "HOME"
+title = "MSNE Journal Club"
 theme = "kube"
-description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
+
+description = "Neuroengineering Journal Club, created by students for studetns!"
 Paginate = 4
 [Params]
+  author = "M.Sc. Neuroengineering"
+  bio = "Technical University Munich"
+  location = "Munich, Germany"
   RSSLink = "/index.xml"
-  author = "newpixcom" # add your company name
-  github = "" # add your github profile name
-  twitter = "" # add your twitter profile
-  email = "myemail@myaddress.xxx"
+
+  github = "https://github.com/neuroengineering" # add your github profile name
+  email = " njc@lists.lrz.de"
+  copyright  = """Powered by [Hugo](//gohugo.io). Theme by [jeblister](https://github.com/jeblister).
+  <br/>Aleksandra Teska &bull;
+  Technische Universität München &bull;
+  Arcisstraße 21 &bull;
+  80333 München
+  """
 
 [[menu.main]]
     name = "MSNE Blog"
@@ -18,4 +28,8 @@ Paginate = 4
 [[menu.main]]
     name = "Previous Talks"
     weight = -100
-    url = "/blog/"
+    url = "/docs/"
+[[menu.main]]
+    name = "About"
+    weight = -100
+    url = "/about/"

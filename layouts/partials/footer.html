@@ -1,0 +1,22 @@
+  <footer id="footer">
+    <nav>
+      <ul>
+        <li><span>Kube</span></li>
+        <li>
+          <a href="/about/">About</a>
+        </li>
+          <li>
+          <a href="/docs/">Previous Talks</a>
+        </li>
+        <li>
+          <a href="https://neuroengineering.blog">Check the Blog!</a>
+        </li>
+      </ul>
+    </nav>
+      <div class="outer">
+      <div id="footer-info" class="inner">
+        &copy; {{ now.Format "2006"}}
+        {{ with .Site.Params.copyright }}{{ . | markdownify}}{{ end }}
+      </div>
+    </div>
+  </footer>
