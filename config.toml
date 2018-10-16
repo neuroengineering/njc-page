@@ -26,10 +26,10 @@ Paginate = 4
     weight = -100
     url = "http://www.neuroengineering.blog"
 [[menu.main]]
-    name = "Previous Talks"
+    name = "Talks"
     weight = -100
     url = "/docs/"
 [[menu.main]]
     name = "About"
     weight = -100
-    url = "/about/"
+    url = "/faq/"

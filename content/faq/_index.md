@@ -1,16 +1,10 @@
 +++
-date = "2018-06-24T12:00:00"
-draft = false
-tags = ["events"]
-title = "MSNE Journal Club"
-banner = "/img/projects/journal-club_01.jpg"
-math = true
-menu = "main"
-summary = """
-"""
+draft= false
+title = "FAQ"
+description = "Asked and answered"
 +++
 
-### Why a Journal Club?
+## Why a Journal Club?
 
 Science communication is an essential aspect of scientific research. It enables scientists and  researchers to inform
 each other, as well as the public, about science progress and invoke scientific, political and ethical thinking.
@@ -28,41 +22,26 @@ Neuroengineering Journal Club (NJC) is all about the above-mentioned objectives.
 networking by promoting a diverse audience as well as inviting speakers outside the neuroengineering program,
 from research institutes and industry.
 
-### When and Where?
+## When and Where?
 
 NJC is expected to have a frequency of at least once a month. The venue of the events will mostly be announced a week before the
 event. However, we are likely to have most of the events near the TUM main campus.
 
-### Upcoming events
 
-Topic: TBA<br>
-Speaker: TBA<br>
-Date: TBA<br>
+## How to give a talk?
 
-### Past events
-
-Topic: "Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats", Garfinkel et al.<br>
-Speaker: Werner Seitz <br>
-Date: 24/06/2018 <br>
-
-### How to get notified?
-
-Please sign up for our mailing list by sending us an email at m.bashiri@tum.de, with an indication of interest to
-be added to the mailing list.
-
-### How to give a talk?
-
-1. Choose a topic: you can either propose a topic, or be inspired by the list of topics provided by us.
+1. Choose a topic: you can either propose a topic, or be inspired by the list of topics provided by us. (TBA)
 2. Send us an email and we will get in touch with you. Please include the following information in your email:
     - Name
     - Affiliation
     - Topic
     - Preferred Date
 
+## Contact
 
-### Contact
 
 In case of any inquiries do not hesitate to contact us: <br>
 
-Mohammad Bashiri - [m.bashiri@tum.de](mailto:m.bashiri@tum.de) <br>
-Werner Seitz - [seitz-werner@hotmail.de](mailto:seitz-werner@hotmail.de)
+### NJC:  [njc@lists.lzw.de](mailto:njc@lists.lzw.de) <br><br>
+Mohammad Bashiri: [m.bashiri@tum.de](mailto:m.bashiri@tum.de) <br>
+Werner Seitz: [seitz-werner@hotmail.de](mailto:seitz-werner@hotmail.de)
