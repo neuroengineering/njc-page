@@ -1,7 +1,7 @@
 # baseURL = "/"
 relativeURLs = true
 languageCode = "en-us"
-title = "MSNE Journal Club"
+title = "Home"
 theme = "kube"
 
 description = "Neuroengineering Journal Club, created by students for studetns!"
