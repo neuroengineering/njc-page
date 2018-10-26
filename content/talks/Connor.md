@@ -1,7 +1,7 @@
 +++
-description = "Hierarchical Temporal Memory"
-title = "Upcoming: Connor Leahy"
-bref = "Hierarchical Temporal Memory"
+title = "Upcoming: Hierarchical Temporal Memory"
+description = "by Connor Leahy"
+bref = "Upcoming: Hierarchical Temporal Memory"
 draft = false
 weight = 200
 +++
@@ -9,7 +9,7 @@ weight = 200
 <h3 class="section-head" id="h-get-started"><a href="#h-get-started">
 Upcoming talk about Hierarchical Temporal Memory will be given by Connor Leahy.
 <br> <br>
-Date: TBA
+Date: 7.11.2018
 
 </a></h3>
 <p>

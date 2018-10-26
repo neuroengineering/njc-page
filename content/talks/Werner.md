@@ -1,6 +1,6 @@
 +++
-title = "First Talk by Werner Schulz"
-description = "Fear from the Heart"
+title = "Fear from the Heart"
+description = "by Werner Schulz"
 
 date = "2018-06-24T12:00:00"
 draft = false
