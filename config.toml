@@ -28,7 +28,7 @@ Paginate = 4
 [[menu.main]]
     name = "Talks"
     weight = -100
-    url = "/docs/"
+    url = "/talks/"
 [[menu.main]]
     name = "About"
     weight = -100
