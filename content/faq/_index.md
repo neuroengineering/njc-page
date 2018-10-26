@@ -42,6 +42,4 @@ event. However, we are likely to have most of the events near the TUM main campu
 
 In case of any inquiries do not hesitate to contact us: <br>
 
-### Mohammad Bashiri: [m.bashiri@tum.de](mailto:m.bashiri@tum.de) <br>
-### Werner Seitz: [seitz-werner@hotmail.de](mailto:seitz-werner@hotmail.de)
-### Yagmur Yener: [yagmur.yener@tum.de](mailto:yagmur.yener@tum.de)
+# <center>[msne-njc@ei.tum.de](mailto:msne-njc@ei.tum.de) </center>
