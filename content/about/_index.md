@@ -42,4 +42,4 @@ event. However, we are likely to have most of the events near the TUM main campu
 
 In case of any inquiries do not hesitate to contact us: <br>
 
-### <center>[msne-njc@ei.tum.de](mailto:msne-njc@ei.tum.de) </center>
+# <center>[msne-njc@ei.tum.de](mailto:msne-njc@ei.tum.de) </center>

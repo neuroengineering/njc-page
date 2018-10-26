@@ -1,7 +1,7 @@
 # baseURL = "/"
 relativeURLs = true
 languageCode = "en-us"
-title = "MSNE Journal Club"
+title = "Home"
 theme = "kube"
 
 description = "Neuroengineering Journal Club, created by students for studetns!"
@@ -28,7 +28,7 @@ Paginate = 4
 [[menu.main]]
     name = "Talks"
     weight = -100
-    url = "/docs/"
+    url = "/talks/"
 [[menu.main]]
     name = "About"
     weight = -100
