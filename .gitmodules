@@ -1,8 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/alTeska/NJC.github.io
-	branch = master
+	url = https://github.com/neuroengineering/njc
 [submodule "themes/kube"]
 	path = themes/kube
-	url = https://github.com/alTeska/kube
-	branch = master
+	url = https://github.com/neuroengineering/kube
