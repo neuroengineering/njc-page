@@ -1,11 +1,11 @@
 +++
 title = "Fear from the Heart"
-description = "by Werner Schulz"
+description = "by Werner Seitz"
+bref = "by Werner Seitz"
 
 date = "2018-06-24T12:00:00"
 draft = false
 weight = 220
-bref = "Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats"
 +++
 
 
