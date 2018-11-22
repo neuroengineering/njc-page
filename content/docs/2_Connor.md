@@ -78,4 +78,14 @@ We would like to thank our speaker once again!
 </figure>
 
 
+<b>Resources:</b> <br>
+presentation: <br>
+https://drive.google.com/file/d/1m0rKf09NcF15GYza7Iwfuj64ADdvGxpI/view?usp=sharing
+
+Additional resources provided by Connor: <br>
+[1] Mountcastle, V. B. (1978): "An Organizing Principle for Cerebral Function: The Unit Model and the Distributed System” <br>
+[2] Hawkins, Ahmad (2016): “Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex” <br>
+[3] Hawkins, Ahmad, Cui (2017): “A Theory of How Columns in the Neocortex Enable Learning the Structure of the World” <br>
+[4] Hawkins, Lewis, Purdy, Klukas, and Ahmad (2018): “A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex” <br>
+
 </p>
