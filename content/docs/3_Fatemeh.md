@@ -9,7 +9,9 @@ weight = 100
 <h3 class="section-head" id="h-get-started"><a href="#h-get-started">
 Upcoming talk:   <i>Multimodal Image Processing Application</i>.
 <br> <br>
-Date: TBA
+
+Date: 29.12.2018 at 19:00 , doors open at 18.30 <br>
+Place: Karlstr. 45, room 2026 - ICS Seminar Room
 
 </a></h3>
 <p>
