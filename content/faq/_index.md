@@ -34,7 +34,6 @@ event. However, we are likely to have most of the events near the TUM main campu
 2. Fill in the Google Form that you can find on our main page or send us an email and we will get in touch with you.
 Please include the following information in your email:
     - Name
-    - Affiliation
     - Topic
     - Preferred Date
 
