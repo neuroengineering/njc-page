@@ -69,7 +69,7 @@ We would like to thank our speaker once again!
 
 
 <figure>
-  <p align="center">
+  <p align="center">        
   <img alt="Image" height="533" src="/img/Connor/connor_yy.jpg" width="750">
     </p>
   <figcaption>

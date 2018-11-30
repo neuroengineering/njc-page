@@ -31,7 +31,8 @@ event. However, we are likely to have most of the events near the TUM main campu
 ## How to give a talk?
 
 1. Choose a topic: you can either propose a topic, or be inspired by the list of topics provided by us. (TBA)
-2. Send us an email and we will get in touch with you. Please include the following information in your email:
+2. Fill in the Google Form that you can find on our main page or send us an email and we will get in touch with you.
+Please include the following information in your email:
     - Name
     - Affiliation
     - Topic
@@ -42,4 +43,4 @@ event. However, we are likely to have most of the events near the TUM main campu
 
 In case of any inquiries do not hesitate to contact us: <br>
 
-### <center>[msne-njc@ei.tum.de](mailto:msne-njc@ei.tum.de) </center>
+# <center>[msne-njc@ei.tum.de](mailto:msne-njc@ei.tum.de) </center>
