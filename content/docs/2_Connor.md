@@ -3,7 +3,7 @@ title = "Hierarchical Temporal Memory"
 description = "by Connor Leahy"
 bref = "by Connor Leahy"
 draft = false
-weight = 200
+weight = 210
 +++
 
 <h3 class="section-head" id="h-get-started"><a href="#h-get-started">
