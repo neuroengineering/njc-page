@@ -14,7 +14,7 @@ Date: 29.12.2018 <br>
 
 </a></h3>
 <p>
-Our recent talk happened on the 29th of November. We had a pleasure of hosting Fatemeh Nejatbakhsh, who currently works as a Visiting Researcher at <i>Columbia University</i> and is a PhD candidate at Department of Neurology of <i>Ludwig-Maximilian Universität</i> in Munich. Our speakers interest consists of developing medical devices but also methods for biomedical image processing, she is also passionate about: vestibular system, brain imaging and cognitive studies.
+Our recent talk happened on the 29th of November. We had a pleasure of hosting Fatemeh Nejatbakhsh, who who was a recent a Visiting Researcher at <i>Columbia University</i> (where she worked with Prof. Gregory C Sharp) and is a PhD candidate at Department of Neurology of <i>Ludwig-Maximilian Universität</i> in Munich. Our speakers interest consists of developing medical devices but also methods for biomedical image processing, she is also passionate about: vestibular system, brain imaging and cognitive studies.
 
 We started the evening by networking and a short introduction to our website and the speaker. From there, Fatemeh smoothly took over and introduced us to her background. She invited the students to cooperate with the wonderful groups she had a pleasure to work with before Prof. Dr. Nassir Navab.
 
@@ -113,6 +113,9 @@ https://drive.google.com/file/d/1Yfzj65qX6EdHpVEb3sZiojSdzxABr2IB/view?usp=shari
 
 Prof. Nassir Navab website::
 http://www.professoren.tum.de/en/navab-nassir/
+
+Prof. Gregory C Sharp:
+https://gray.mgh.harvard.edu/people-directory/translational/75-gregory-c-sharp-phd  
 
 <b> References: </b> <br>
 
