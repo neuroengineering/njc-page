@@ -1,13 +1,13 @@
 +++
-title = "Upcoming: Neuroelectronics - Printed microelectrode array for in vitro studies"
-description = "by Dr. Nouran Yehia Adly Hassan"
-bref = "by Dr. Nouran Yehia Adly Hassan"
+title = "Upcoming: Flexible Microelectrode Arrays"
+description = "by Dr. Nouran Adly, Lennard de Graaf"
+bref = "by Dr. Nouran Adly, Lennard de Graaf"
 draft = false
 weight = 100
 +++
 
 <h3 class="section-head" id="h-get-started"><a href="#h-get-started">
-<i>Neuroelectronics</i>.
+<i>Flexible Microelectrode Arrays</i>.
 <br> <br>
 
 Speakers: Nouran Adly, Lennard de Graaf <br>
@@ -16,9 +16,9 @@ Location: Karlsraße 45 <br>
 </a></h3>
 
 <p><h4>
-The talk will be divided in two parts, presented by: <br></h4><br>
+The talk will be divided in two parts: <br></h4><br>
 
-<h4><center>1. Printed microelectrode array for in vitro studies:<br>
+<h4><center>1. Printed microelectrode array for in-vitro studies:<br>
 Beyond the era of gold and silicon<br>
 by Dr. Nouran Adly</h4></center>
 
@@ -27,8 +27,6 @@ by Dr. Nouran Adly</h4></center>
 <br><br>
 <center><h4>2. Histological evaluation of flexible neural implants; flexibility limit for reducing the tissue response? Lee, et al. <br> </h4>
 <h4>by Lennard de Graaf<br> </h4></center>
-
-Paper abstract:<br>
 
 <div style="text-align: justify">OBJECTIVE:
 Flexible neural probes are hypothesized to reduce the chronic foreign body response (FBR) mainly by reducing the strain-stress caused by an interplay between the tethered probe and the brain's micromotion. However, a large discrepancy of Young's modulus still exists (3-6 orders of magnitude) between the flexible probes and the brain tissue. This raises the question of whether we need to bridge this gap; would increasing the probe flexibility proportionally reduce the FBR?<br><br>
@@ -39,7 +37,7 @@ MAIN RESULTS: We observed a significant reduction in the fluorescence intensity 
 
 SIGNIFICANCE: The results suggest that the mechanical compliance of neural probes can mediate the degree of FBR, but its impact diminishes after a hypothetical threshold level. This infers that resolving the mechanical mismatch alone has a limited effect on improving the lifetime of neural implants.
 </div>
-
+<br><br>
 <figure>
   <p align="center">        
   <img alt="Image" height="533" src="/img/neuroelectronics.png" width="750">
