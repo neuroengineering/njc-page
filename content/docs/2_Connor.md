@@ -12,7 +12,7 @@ weight = 210
 Date: 7.11.2018
 
 </a></h3>
-<p>
+<p><div style="text-align: justify">
 On 7th of November we had the pleasure to host our first guest of the winter semester - Connor Leahy. Connor is a passionate Computer Science student at TUM. Most of his knowledge is self-taught, in his free time he loves reading about Machine Learning, Neuroscience, Statistics, and Philosophy. He has recently started working at Max Planck Institute of Psychiatry, where he is developing a system to automatically detect dendritic spines with images from two-photon microscopy.  He is one of the organizers of PyData Munich[add hyperlink] and Kaggle Munich[add hyperlink].  As he said himself, his main interest is “Intelligence, not just an artificial intelligence!”
 
 <figure>
