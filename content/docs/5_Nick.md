@@ -17,15 +17,14 @@ Location:  TUM main campus, building N1, room N1135<br>
 <div style="text-align: justify">
 
 <h4>About our speaker:</h4>
-Nicholas A. Del Grosso, is a postdoctoral researcher in Proteomics, at the Max Planck Institute for Biochemistry.  During his PhD, he designed and built a virtual reality system for freely-moving rodents in the Sirota Lab (Cognition and Neural Plasticity) at LMU. He is not only a passionate neuroscientist but also a professional Pythonista, having written several high- and low-level Python libraries. In the upcoming NJC event, Nicholas will talk about Productivity in Science.
+Nicholas A. Del Grosso, is a postdoctoral researcher in Proteomics, at the Max Planck Institute for Biochemistry. During his Ph.D., he designed and built a virtual reality system for freely-moving rodents in the Sirota Lab (Cognition and Neural Plasticity) at LMU. He is not only a passionate neuroscientist but also a professional Pythonista, having written several high- and low-level Python libraries.
 <br> <br>
 
 
 <h2>The Lean Scientist: Productivity in Science</h2>
-This NJC event was a little bit different...we didn’t as usual discuss research, we instead covered a topic of: **How to do research**. Through the almost 2 hours long engaged talk and discussion we learnt about the key concepts behind: *being a lean scientist*.
+This NJC event was a little bit different...we didn’t as usual discuss research, we instead covered a topic of: **How to do research**. Through the almost 2 hours long engaged talk and discussion we learned about the key concepts behind: *being a lean scientist*.
 
-Here we will provide you with a quick overview of the main idea, but we strongly encourage you to have a look directly at Nick’s slides, which you can find on the bottom of this article.
-Throughout the Talk, Nick inspired by the experiences of his PhD and group leadership was posing challenging questions and approaches to doing science. Not often does the speaker start with a suggestion that he will make us start writing our thesis first day at the lab!
+Here we will provide you with a quick overview of the main idea, but we strongly encourage you to have a look directly at Nick’s slides, which you can find on the bottom of this article. Throughout the Talk, Nick inspired by the experiences of his Ph.D. and group leadership was posing challenging questions and approaches to doing science. Not often does the speaker start with a suggestion that he will make us start writing our thesis first day at the lab!
 <figure>
   <p align="center">        
   <img alt="" height="533" src="/img/Nick/1.jpg" width="850">
@@ -51,14 +50,14 @@ Or in other words: to learn, test your learning, share your tested learning, the
 
 
 
-<center><h5>Productivity = goal-oriented behaviour.</h5></center>
+<center><h5>Productivity = goal-oriented behavior.</h5></center>
 To be productive in science you must produce, but every time you produce you must change state in the desired way. When you don’t change, you make no progress. Nick suggested that what we need to learn is setting the goal in a new way. Knowledge should be a motor and learning (goals) should be a source of change.
 
 When you start a project you try to predict the trajectory it should take, but the truth is, we can not know precisely. Each project carries with itself a probability of failure and by trying to go towards it’s orthogonally, we make no progress.
 
 With this approach, your work is not about the hours, but also about their quality. You should carefully choose what do you want to pursue and arrange your workload accordingly:
-<br>- Taking a smaller step and applying course correction is going to be time costly!   (time cost on each error)
-<br>- It would be even worse if you show whatever you produced as if it was correct!     (sum of error)<br>
+<br>- Taking a smaller step and applying course correction is going to be time costly! (time cost on each error)
+<br>- It would be even worse if you show whatever you produced as if it was correct! (sum of error)<br>
 
 <br>
 <figure>
@@ -74,8 +73,9 @@ With this approach, your work is not about the hours, but also about their quali
 
 <h5>How to reduce the Risk? Trade-off Distance and Specifity</h5>
 Instead of already narrow aim, pick broad long goals, your mission of what is most important to you. Then choose short term goals and sequentially approach the most fitting ones! Select goals strategically, pick objectives that bring you closer to your aims, aligning them with each other to produce the shortest path.<br>
+
 Due to the hesitation in the crowd, our speaker explained how to pick the long term goal, by answering the list of questions: <i>Why am I here? What do I want to achieve in total? How do my current goals correlate to my global goal?
-Keep track of those reasons! </i> <br><br>
+Keep track of those reasons!</i> <br><br>
 
 
 <figure>
